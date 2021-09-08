@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-17T09:33:36.055243Z'
+publishDate: '2021-09-02T20:57:12.729352Z'
 publication_types:
 - '1'
 abstract: We identify a new variational inference scheme for dynamical systems whose
@@ -45,6 +45,7 @@ abstract: We identify a new variational inference scheme for dynamical systems w
   obtain gives better predictive performance and more calibrated estimates of the
   transition function, yet maintains the same time and space complexities as mean-field
   methods.
-publication: '*Proceedings of the 36th International Conference on Machine Learning*'
+publication: '*Proceedings of the 36th International Conference on Machine Learning
+  (ICML)*'
 url_pdf: http://proceedings.mlr.press/v97/ialongo19a.html
 ---

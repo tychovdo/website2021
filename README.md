@@ -1,4 +1,10 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+# New Group Member README
+If you are a member o the group, it is good to have a web presence. The most important thing is to be listed as a member. To do this, you need to:
+- Create a directory with your name in `./content/authors`.
+- Ensure that a file called `_index.md` is present. You can copy this from someone else, but then you need to go through every option to ensure that you didn't accidentally leave some of their information.
+- Update your details, such as your role and your links (website, e-mail, scholar, twitter etc).
+- To view the website, run `hugo server` (you will need to install a few things on your machine first).
+- Upload your changes to a branch, and add a pull request. I will review it, and accept your changes.
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 

@@ -10,7 +10,7 @@ authors:
 - Mark van der Wilk
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-07-01'
 lastmod: 2021-05-13T10:08:59+01:00
 featured: false
 draft: false
@@ -29,10 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-17T09:33:39.239123Z'
+publishDate: '2021-09-02T20:57:15.695389Z'
 publication_types:
-- '0'
+- '1'
 abstract: ''
-publication: ''
+publication: '*Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence
+  (UAI)*'
 url_pdf: https://arxiv.org/abs/2102.12108
 ---

@@ -6,8 +6,8 @@ title: Distributed Variational Inference in Sparse Gaussian Process Regression a
 subtitle: ''
 summary: ''
 authors:
-- "Yarin Gal"
-- "Mark van der Wilk"
+- Yarin Gal
+- Mark van der Wilk
 - Carl Edward Rasmussen
 tags: []
 categories: []
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-17T09:33:33.515758Z'
+publishDate: '2021-09-02T20:57:10.711168Z'
 publication_types:
 - '6'
 abstract: ''

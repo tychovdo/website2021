@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-17T09:33:37.132561Z'
+publishDate: '2021-09-02T20:57:13.745605Z'
 publication_types:
 - '1'
 abstract: In decision-making systems, it is important to have classifiers that have
@@ -47,6 +47,6 @@ abstract: In decision-making systems, it is important to have classifiers that h
   dropout-based Bayesian deep learning methods in terms of uncertainty and marginal
   likelihood estimates.
 publication: '*Proceedings of the Twenty Third International Conference on Artificial
-  Intelligence and Statistics*'
+  Intelligence and Statistics (AISTATS)*'
 url_pdf: http://proceedings.mlr.press/v108/dutordoir20a.html
 ---

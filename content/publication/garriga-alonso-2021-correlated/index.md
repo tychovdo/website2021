@@ -9,7 +9,7 @@ authors:
 - Mark van der Wilk
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-07-01'
 lastmod: 2021-05-13T10:08:59+01:00
 featured: false
 draft: false
@@ -28,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-17T09:33:38.885962Z'
+publishDate: '2021-09-02T20:57:15.862797Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Third Symposium on Advances in Approximate Bayesian Inference*'
-url_pdf: https://openreview.net/forum?id=I860dGFud1b
+publication: '*Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence
+  (UAI)*'
+url_pdf: https://www.auai.org/uai2021/pdf/uai2021.752.pdf
 ---

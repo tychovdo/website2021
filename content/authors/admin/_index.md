@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Mark van der Wilk
+user_groups: ["Faculty"]
 
 # Is this the primary user of the site?
 superuser: true
@@ -40,6 +41,9 @@ bio: More automatic, more robust models for reinforcement learning.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://markvdw.github.io
 - icon: envelope
   icon_pack: fas
   link: mailto:m.vdwilk@imperial.ac.uk
