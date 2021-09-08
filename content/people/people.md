@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: People
 subtitle:
 
 content:
@@ -19,8 +19,6 @@ content:
   user_groups:
   - Faculty
   - PhD Candidates
-  - Researchers
-  - Grad Students
   - Administration
   - Visitors
   - Alumni

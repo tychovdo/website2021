@@ -3,8 +3,14 @@ If you are a member o the group, it is good to have a web presence. The most imp
 - Create a directory with your name in `./content/authors`.
 - Ensure that a file called `_index.md` is present. You can copy this from someone else, but then you need to go through every option to ensure that you didn't accidentally leave some of their information.
 - Update your details, such as your role and your links (website, e-mail, scholar, twitter etc).
-- To view the website, run `hugo server` (you will need to install a few things on your machine first).
+  - For your `user_group`, select the appropriate group from the one listed in `./content/people/people.md`.
+  - For your role, if you are doing a PhD, add the month and year when you started. If you are a visitor, add your host institution.
+  - When you leave, change your `user_group` to "Alumni", and your role to whatever your group was.
+- Add a photo of yourself by replacing `avatar.jpg`.
 - Upload your changes to a branch, and add a pull request. I will review it, and accept your changes.
+
+To view the website, you will need to install [hugo](https://gohugo.io/getting-started/quick-start/). Then you can run `hugo server`, after which you can view the website through [localhost:1313](https://localhost:1313)
+
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
