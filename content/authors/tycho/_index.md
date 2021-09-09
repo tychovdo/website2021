@@ -46,19 +46,19 @@ social:
   link: https://tychovdo.github.io/
 - icon: envelope
   icon_pack: fas
-  link: t.van-der-ouderaa21@imperial.ac.uk
+  link: mailto:tycho.vanderouderaa@imperial.ac.uk
 - icon: twitter
   icon_pack: fab
-  link: https://scholar.google.com/citations?hl=en&user=_TVJ4pUAAAAJ
+  link: https://twitter.com/tychovdo
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=_TVJ4pUAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link:
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tychovdo/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
